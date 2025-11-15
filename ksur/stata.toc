@@ -2,4 +2,4 @@
 1
 2
 3
-p dfao Augmented Dickey-Fuller unit root test with additive outliers Use dfao With STATA 19
+p ksur Calculate Kapetanios and Shin unit-root test statistic along with 1, 5, and 10% finite-sample critical values and associated p-values Use ksur And kssur With STATA 19
