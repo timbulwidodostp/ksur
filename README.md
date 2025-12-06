@@ -1,6 +1,8 @@
 # ksur
 Calculate Kapetanios and Shin unit-root test statistic along with 1, 5, and 10% finite-sample critical values and associated p-values Use ksur And kssur With STATA 19
 
+https://www.youtube.com/watch?v=rySFhLH9AiU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
